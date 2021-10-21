@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/projectSettingsUpdater.xml
+/modules.xml
+/.idea.Algor.iml
+/contentModel.xml
+# Datasource local storage ignored files
+/../../../../../../../../:\Users\chiru\RiderProjects\Algor\.idea\.idea.Algor\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/

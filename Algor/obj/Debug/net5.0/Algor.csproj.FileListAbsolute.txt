@@ -1,0 +1,16 @@
+C:\Users\chiru\RiderProjects\Algor\Algor\bin\Debug\net5.0\Algor.exe
+C:\Users\chiru\RiderProjects\Algor\Algor\bin\Debug\net5.0\Algor.deps.json
+C:\Users\chiru\RiderProjects\Algor\Algor\bin\Debug\net5.0\Algor.runtimeconfig.json
+C:\Users\chiru\RiderProjects\Algor\Algor\bin\Debug\net5.0\Algor.runtimeconfig.dev.json
+C:\Users\chiru\RiderProjects\Algor\Algor\bin\Debug\net5.0\Algor.dll
+C:\Users\chiru\RiderProjects\Algor\Algor\bin\Debug\net5.0\ref\Algor.dll
+C:\Users\chiru\RiderProjects\Algor\Algor\bin\Debug\net5.0\Algor.pdb
+C:\Users\chiru\RiderProjects\Algor\Algor\obj\Debug\net5.0\Algor.csproj.AssemblyReference.cache
+C:\Users\chiru\RiderProjects\Algor\Algor\obj\Debug\net5.0\Algor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chiru\RiderProjects\Algor\Algor\obj\Debug\net5.0\Algor.AssemblyInfoInputs.cache
+C:\Users\chiru\RiderProjects\Algor\Algor\obj\Debug\net5.0\Algor.AssemblyInfo.cs
+C:\Users\chiru\RiderProjects\Algor\Algor\obj\Debug\net5.0\Algor.csproj.CoreCompileInputs.cache
+C:\Users\chiru\RiderProjects\Algor\Algor\obj\Debug\net5.0\Algor.dll
+C:\Users\chiru\RiderProjects\Algor\Algor\obj\Debug\net5.0\ref\Algor.dll
+C:\Users\chiru\RiderProjects\Algor\Algor\obj\Debug\net5.0\Algor.pdb
+C:\Users\chiru\RiderProjects\Algor\Algor\obj\Debug\net5.0\Algor.genruntimeconfig.cache
